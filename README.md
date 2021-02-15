@@ -1,3 +1,3 @@
 # CSE439-Project
 
-REPLACE THIS TEXT WITH TEAM MEMBER NAMES AND STUDENT IDS
+Nick Cione, Max Calman, Nathan Ostdiek
